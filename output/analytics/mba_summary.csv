@@ -1,0 +1,10 @@
+metric,value
+total_orders_analysed,398800.0
+multi_category_transactions,13743.0
+multi_category_rate_pct,3.45
+category_itemsets_found,8.0
+category_rules_found,6.0
+subcategory_itemsets,52.0
+subcategory_rules,39.0
+min_support_category,0.05
+min_confidence_category,0.3

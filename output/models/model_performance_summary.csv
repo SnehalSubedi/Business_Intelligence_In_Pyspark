@@ -1,0 +1,4 @@
+model,target,r2,rmse,mae,accuracy,f1,business_use
+Linear Regression,line_total (revenue),0.8125,15275.66,9994.73,,,Revenue forecasting and budget planning
+Random Forest Regression,review_score (satisfaction),0.1281,1.1623,0.9293,,,Customer satisfaction risk prediction
+Logistic Regression,order status (Delivered/Cancelled),,,,0.8839,0.8295,Order cancellation risk detection

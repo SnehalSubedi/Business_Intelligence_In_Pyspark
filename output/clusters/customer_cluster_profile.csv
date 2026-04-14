@@ -1,0 +1,5 @@
+cluster,customer_count,avg_recency,avg_frequency,avg_monetary,avg_order_value,avg_discount_pct,avg_review_score,total_revenue,avg_items_bought,recency_rank,frequency_rank,monetary_rank,rfm_score,overall_rank,segment_label
+0,14634,833.1,1.81,60404.76,14254.14,12.52,3.64,883963267.15,11.6,4.0,4.0,4.0,12.0,4.0,New / Low-Value
+1,17231,265.9,2.91,330012.36,52581.02,11.68,3.65,5686442940.4,20.9,3.0,3.0,2.0,8.0,3.0,At-Risk Customers
+2,19226,102.4,8.04,453991.24,24391.65,12.47,3.65,8728435607.88,56.2,1.0,1.0,1.0,3.0,1.0,Champion Customers
+3,49735,173.5,3.09,92608.43,13123.36,12.78,3.65,4605880394.15,19.8,2.0,2.0,3.0,7.0,2.0,Loyal Customers

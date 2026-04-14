@@ -1,0 +1,29 @@
+section,component,metric,value,status
+1,Environment,PySpark Version,4.1.1,Complete
+1,Environment,Spark Cores,8,Complete
+2,Ingestion,Total rows loaded,1727461,Complete
+2,Ingestion,Source files,7,Complete
+4,Cleaning,Total rows removed,1950,Complete
+4,Cleaning,Issues fixed,14,Complete
+5,Star Schema,FACT_SALES rows,916167,Complete
+5,Star Schema,Dimension tables,6,Complete
+6,EDA,Total Revenue,20619325759.25,Complete
+6,EDA,Avg Order Value,22506.08,Complete
+6,EDA,Avg Review Score,3.651,Complete
+7,Customer K-Means,Silhouette Score,0.4239,Complete
+7,Customer K-Means,Customers clustered,100826,Complete
+8,Product K-Means,Silhouette Score,0.5254,Complete
+8,Product K-Means,Products clustered,4781,Complete
+9,Linear Regression,R2 Score,0.8125,Complete
+9,Linear Regression,RMSE,15275.66,Complete
+9,Random Forest,R2 Score,0.1281,Complete
+9,Random Forest,RMSE,1.1623,Complete
+9,Logistic Regression,Accuracy,0.8839,Complete
+9,Logistic Regression,F1 Score,0.8295,Complete
+10,Market Basket,Category rules found,6,Complete
+10,Market Basket,Subcategory rules,39,Complete
+11,Streaming,Rows streamed,2500,Complete
+11,Streaming,Batches processed,5,Complete
+12,Parquet Storage,CSV total size MB,149.18,Complete
+12,Parquet Storage,Parquet total size MB,39.47,Complete
+12,Parquet Storage,Compression ratio,3.78,Complete

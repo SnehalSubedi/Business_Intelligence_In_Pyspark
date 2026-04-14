@@ -1,0 +1,4 @@
+cluster,product_count,avg_sales_volume,avg_total_revenue,avg_sale_price,avg_review_score,avg_discount_pct,avg_units_sold,avg_unique_customers,cluster_total_revenue,revenue_rank,volume_rank,price_rank,combined_rank,product_label
+0,1333,257.1,2279358.16,2838.34,3.65,12.49,758.7,255.8,3038384433.67,2.0,2.0,3.0,2.0,Mid-Range Performer
+1,421,334.7,27149215.41,29063.54,3.65,12.47,935.8,333.0,11429819687.57,1.0,1.0,1.0,1.0,Bestseller
+2,3027,142.9,2032085.11,4593.82,3.65,12.49,424.8,142.3,6151121638.01,3.0,3.0,2.0,3.0,Slow Mover

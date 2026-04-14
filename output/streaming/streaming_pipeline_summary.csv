@@ -1,0 +1,6 @@
+component,detail,rows,status
+Source,JSON file stream (JSONL),2500,completed
+Transformation,"revenue_band, is_discounted, date cast",2500,completed
+Console Sink 1,Revenue by category,2500,completed
+Console Sink 2,Orders by country,2500,completed
+Parquet Sink,/Users/snehalsubedi/Desktop/Coursework_dataset/output/streaming/results,2500,completed
